@@ -1,0 +1,188 @@
+{
+  "Q28": {
+    "id": "Q28",
+    "description": "Why aren't you always able to access healthcare services when needed?",
+    "values": {
+      "0": {"code": 1, "description": "I have no insurance"},
+      "1": {"code": 2, "description": "Too expensive/Cannot afford"},
+      "2": {"code": 4, "description": "Could not get appointment(s)"},
+      "3": {"code": 8, "description": "Lack of transportation"},
+      "4": {"code": 16, "description": "Too much time to wait"},
+      "5": {"code": 32, "description": "Doctor is too far away"},
+      "6": {"code": 64, "description": "Services are not available"},
+      "7": {"code": 128, "description": "Provider does not accept my insurance"},
+      "8": {"code": 256, "description": "Doctor not accepting new patients"},
+      "9": {"code": 512, "description": "Didn't know how to contact provider"},
+      "10": {"code": 1024, "description": "Other"},
+      "-1": {"code": 2048, "description": "Missing value"}
+    }
+  },
+  "Q29b": {
+    "id": "Q29b",
+    "description": "Blood sugar / Glucose screening status",
+    "values": {
+      "0": {"code": 0, "description": "Yes"},
+      "1": {"code": 1, "description": "No"},
+      "2": {"code": 2, "description": "Not sure"},
+      "3": {"code": 3, "description": "Not due yet"},
+      "4": {"code": 4, "description": "Prefer not to answer"}
+    }
+  },
+  "S6": {
+    "id": "S6",
+    "description": "ZipCodes",
+    "values": {
+      "0": {"code": 0, "description": "13440"},
+      "1": {"code": 1, "description": "13502"},
+      "2": {"code": 2, "description": "13501"},
+      "3": {"code": 3, "description": "13492"},
+      "4": {"code": 4, "description": "13413"}
+    }
+  },
+  "Q45": {
+    "id": "Q45",
+    "description": "Employment Status",
+    "values": {
+      "0": {"code": 1, "description": "Employed full-time"},
+      "1": {"code": 2, "description": "Employed part-time"},
+      "2": {"code": 4, "description": "Retired"},
+      "3": {"code": 8, "description": "Unemployed"},
+      "4": {"code": 16, "description": "Disabled"},
+      "5": {"code": 32, "description": "Student"},
+      "6": {"code": 64, "description": "Prefer not to answer"},
+      "7": {"code": 128, "description": "Other"}
+    }
+  },
+  "Q46": {
+    "id": "Q46",
+    "description": "Educational Level",
+    "values": {
+      "0": {"code": 0, "description": "Less than high school"},
+      "1": {"code": 1, "description": "Some high school"},
+      "2": {"code": 2, "description": "High school graduate (or equivalent)"},
+      "3": {"code": 3, "description": "Some college, no degree"},
+      "4": {"code": 4, "description": "Two-year associate degree"},
+      "5": {"code": 5, "description": "Four-year college degree"},
+      "6": {"code": 6, "description": "Some postgraduate, no degree"},
+      "7": {"code": 7, "description": "Postgraduate or professional degree"},
+      "8": {"code": 8, "description": "Don't know/Refused"}
+    }
+  },
+  "Q47": {
+    "id": "Q47",
+    "description": "Income Level",
+    "values": {
+      "0": {"code": 0, "description": "Less than $25,000"},
+      "1": {"code": 1, "description": "$25,000-$49,999"},
+      "2": {"code": 2, "description": "$50,000-$74,999"},
+      "3": {"code": 3, "description": "$75,000-$99,999"},
+      "4": {"code": 4, "description": "$100,000-$124,999"},
+      "5": {"code": 5, "description": "$125,000-$149,999"},
+      "6": {"code": 6, "description": "$150,000-$199,999"},
+      "7": {"code": 7, "description": "$200,000 or more"},
+      "8": {"code": 8, "description": "Prefer not to answer"}
+    }
+  },
+  "Q48": {
+    "id": "Q48",
+    "description": "Difficulty covering basic expenses",
+    "values": {
+      "1": {"code": 1, "description": "Never"},
+      "2": {"code": 2, "description": "Rarely"},
+      "3": {"code": 3, "description": "Sometimes"},
+      "4": {"code": 4, "description": "Often"},
+      "5": {"code": 5, "description": "Always"},
+      "0": {"code": 0, "description": "Prefer not to answer"}
+    }
+  },
+  "Q8": {
+    "id": "Q8",
+    "description": "Opportunities for physical activity",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q9": {
+    "id": "Q9",
+    "description": "Screenings and other preventive healthcare services",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q12": {
+    "id": "Q12",
+    "description": "Healthcare services for low-income populations",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q16": {
+    "id": "Q16",
+    "description": "Healthy foods",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q17": {
+    "id": "Q17",
+    "description": "Healthy lifestyle services including nutritionist, fitness programs, community education programs",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q18": {
+    "id": "Q18",
+    "description": "Treatment and management of heart disease, diabetes, cancer and other chronic conditions",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q19": {
+    "id": "Q19",
+    "description": "Mental health services",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  },
+  "Q24": {
+    "id": "Q24",
+    "description": "Telehealth visits (using audio/video technology to receive care and services at a distance)",
+    "values": {
+      "1": {"code": 1, "description": "Hard to obtain"},
+      "2": {"code": 2, "description": "Somewhat hard"},
+      "3": {"code": 3, "description": "Neutral"},
+      "4": {"code": 4, "description": "Somewhat easy"},
+      "5": {"code": 5, "description": "Easy to obtain"}
+    }
+  }
+}
+
+
